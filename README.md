@@ -7,7 +7,7 @@
 <div align="center">
   
   <!-- Cyberpunk/Minimalist Header Banner -->
-  <img src="https://capsule-render.herokuapp.com/main?type=soft&color=auto&height=180&section=header&text=Thegod322&fontSize=80&animation=fadeIn&theme=dark" width="100%" alt="Header Banner" />
+  <img src="./guapikpromo_singemini.png" width="100%" alt="Hero Banner" />
 
   <br/>
 
