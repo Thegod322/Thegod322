@@ -20,9 +20,9 @@
 
   <!-- Modern Social/Stat Badges with sleek custom palettes -->
   <p align="center">
-    <a href="https://github.com/Thegod322"><img src="https://img.shields.io/github/followers/Thegod322?label=Followers&style=for-the-badge&color=8A2BE2&logo=github&logoColor=white" alt="Followers"/></a>
-    <a href="https://github.com/Thegod322?tab=repositories"><img src="https://img.shields.io/github/stars/Thegod322?style=for-the-badge&color=FF1493&logo=starship&logoColor=white" alt="Stars"/></a>
-    <a href="https://github.com/Thegod322"><img src="https://img.shields.io/github/languages/count/Thegod322/Thegod322?style=for-the-badge&color=00F5FF&logo=github&logoColor=white" alt="Language Count"/></a>
+    <a href="https://github.com/Thegod322?tab=followers"><img src="https://img.shields.io/github/followers/Thegod322?label=Follow&style=social" alt="GitHub Followers"/></a>
+    <a href="https://github.com/Thegod322"><img src="https://komarev.com/ghpvc/?username=Thegod322&color=39FF14&style=flat-square" alt="Profile Views"/></a>
+    <a href="https://github.com/Thegod322?tab=repositories"><img src="https://img.shields.io/github/stars/Thegod322?style=social" alt="GitHub Stars"/></a>
   </p>
 </div>
 
@@ -74,24 +74,21 @@ Hello! I am a passionate software engineer focused on building robust, scalable 
 ### 📊 GitHub Metrics & Insights
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="50%">
-        <!-- Premium GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=radical&hide_border=true&title_color=39FF14&icon_color=00F5FF&text_color=FFFFFF&bg_color=0b0c10" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td valign="top" width="50%">
-        <!-- Premium Language Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=radical&hide_border=true&title_color=39FF14&text_color=FFFFFF&bg_color=0b0c10" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <details>
+    <summary><b>Open Full GitHub Metrics</b></summary>
+    <br/>
+    <img src="https://metrics.lecoq.io/Thegod322?template=classic&base.header=0&base.community=0&base.metadata=0&base.indepth=true&repositories=1&repositories.forks=false&repositories.affiliations=owner&languages=1&languages.limit=8&languages.details=percentage&languages.colors=github&languages.indepth=true&achievements=1&achievements.threshold=C&achievements.secrets=true&followup=1&followup.sections=repositories&followup.indepth=true&isocalendar=1&isocalendar.duration=half-year" alt="GitHub Metrics" width="100%"/>
+  </details>
 
   <br/>
 
-  <!-- Streak Stats Card for extra flair -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=radical&hide_border=true&background=0b0c10&ring=8A2BE2&fire=FF1493&currStreakLabel=00F5FF" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=00F5FF&text_color=E6EDF3&rank_icon=github" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=E6EDF3&langs_count=8" alt="Top Languages" width="49%"/>
 
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=transparent&hide_border=true&background=00000000&ring=39FF14&fire=FF1493&currStreakLabel=00F5FF&sideLabels=E6EDF3&dates=AAB7C4&stroke=30363D" alt="GitHub Streak" width="100%"/>
 </div>
 
 <br/>
