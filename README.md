@@ -132,8 +132,7 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
 <div align="center">
   <p><b>Open to collaborations in game development, web experiences, automation, and creative technology.</b></p>
   <p>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;&nbsp;
+    <a href="https://github.com/Thegod322"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;&nbsp;
     <a href="https://t.me/Thegod322"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;&nbsp;
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
