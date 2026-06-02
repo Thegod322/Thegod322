@@ -92,7 +92,11 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=transparent&hide_border=true&background=00000000&ring=39FF14&fire=FF1493&currStreakLabel=00F5FF&sideLabels=E6EDF3&dates=AAB7C4&stroke=30363D" alt="GitHub Streak" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=default&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=default&hide_border=true" alt="GitHub Streak" width="78%"/>
+  </picture>
 </div>
 
 <br/>
