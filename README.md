@@ -12,10 +12,10 @@
   <br/>
 
   <!-- Tagline & Intro -->
-  <h3>💫 Crafting Digital Horizons & Architecting High-Performance Systems</h3>
+  <h3>💫 I turn imagination into reality — if you can imagine it, you can build it.</h3>
   
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Systems+Architect+%26+Automation+Expert;DevOps+Enthusiast+%26+Cloud+Builder" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Game+Designer;Web+Developer;Automation+Engineer" alt="Typing SVG" /></a>
   </p>
 
   <!-- Modern Social/Stat Badges with sleek custom palettes -->
@@ -30,11 +30,11 @@
 
 ### 🌌 Beyond the Code
 
-Hello! I am a passionate software engineer focused on building robust, scalable applications, automating infrastructure, and designing sleek user experiences. I thrive at the intersection of powerful backend logic and visually stunning interfaces.
+Hello! I am a game designer, web developer, and automation engineer focused on turning ideas into real experiences. I enjoy building interactive products, creating modern web applications, and automating workflows that save time and scale smoothly.
 
-- 🔭 **Current Focus:** Building high-availability distributed systems and modern web interfaces.
-- ⚡ **Superpowers:** Refactoring legacy spaghetti code into elegant patterns, setting up bulletproof CI/CD pipelines.
-- 🧪 **Philosophy:** "Simplicity is the ultimate sophistication."
+- 🔭 **Current Focus:** Designing creative digital experiences, building web products, and automating repetitive processes.
+- ⚡ **Strengths:** Connecting ideas with execution, improving workflows, and building practical solutions.
+- 🧪 **Philosophy:** "If you can imagine it, you can build it."
 
 ---
 
@@ -59,7 +59,7 @@ Hello! I am a passionate software engineer focused on building robust, scalable 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </p>
 
-  #### 🗄️ Database & Cloud & DevOps
+  #### 🗄️ Databases, Cloud & DevOps
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"/>
