@@ -42,8 +42,19 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
 
 <div align="left">
   
+  #### 🎮 Game Development & Interactive Worlds
+  <p>
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
+    <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+    <img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"/>
+    <img src="https://img.shields.io/badge/Blueprints-137CBD?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprints"/>
+  </p>
+
   #### 💻 Languages & Runtimes
   <p>
+    <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -55,8 +66,15 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </p>
+
+  #### 🎨 Creative & Design
+  <p>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+    <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop"/>
   </p>
 
   #### 🗄️ Databases, Cloud & DevOps
@@ -71,24 +89,38 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
 
 ---
 
-### 📊 GitHub Metrics & Insights
+### 📊 GitHub Highlights
 
 <div align="center">
   <details>
-    <summary><b>Open Full GitHub Metrics</b></summary>
+    <summary><b>Open Extended GitHub Dashboard</b></summary>
     <br/>
     <img src="https://metrics.lecoq.io/Thegod322?template=classic&base.header=0&base.community=0&base.metadata=0&base.indepth=true&repositories=1&repositories.forks=false&repositories.affiliations=owner&languages=1&languages.limit=8&languages.details=percentage&languages.colors=github&languages.indepth=true&achievements=1&achievements.threshold=C&achievements.secrets=true&followup=1&followup.sections=repositories&followup.indepth=true&isocalendar=1&isocalendar.duration=half-year" alt="GitHub Metrics" width="100%"/>
   </details>
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=00F5FF&text_color=E6EDF3&rank_icon=github" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=E6EDF3&langs_count=8" alt="Top Languages" width="49%"/>
+  <p><b>A cleaner view of coding activity, language focus, and consistency across light and dark mode.</b></p>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
+  </picture>
 
   <br/>
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=transparent&hide_border=true&background=00000000&ring=39FF14&fire=FF1493&currStreakLabel=00F5FF&sideLabels=E6EDF3&dates=AAB7C4&stroke=30363D" alt="GitHub Streak" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Thegod322&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Thegod322&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=Thegod322&theme=default&hide_border=true" alt="GitHub Streak" width="78%"/>
+  </picture>
 </div>
 
 <br/>
@@ -98,12 +130,10 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
 ### 💬 Connect & Collaborate
 
 <div align="center">
+  <p><b>Open to collaborations in game development, web experiences, automation, and creative technology.</b></p>
   <p>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;&nbsp;
     <a href="https://t.me/Thegod322"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;&nbsp;
     <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
-  
-  <br/>
-  <img src="https://raw.githubusercontent.com/Thegod322/Thegod322/main/operator/visual_accent.png" alt="Aesthetic Divider" width="60%" style="opacity: 0.5;" onError="this.style.display='none'"/>
 </div>
