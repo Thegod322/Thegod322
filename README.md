@@ -93,9 +93,9 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Thegod322&theme=tokyonight&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Thegod322&theme=default&hide_border=true"/>
-    <img src="https://streak-stats.demolab.com?user=Thegod322&theme=default&hide_border=true" alt="GitHub Streak" width="78%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=default&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thegod322&theme=default&hide_border=true" alt="GitHub Streak" width="78%"/>
   </picture>
 </div>
 
