@@ -89,33 +89,9 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
 
 ---
 
-### 📊 GitHub Highlights
+### 📊 GitHub Activity
 
 <div align="center">
-  <details>
-    <summary><b>Open Extended GitHub Dashboard</b></summary>
-    <br/>
-    <img src="https://metrics.lecoq.io/Thegod322?template=classic&base.header=0&base.community=0&base.metadata=0&base.indepth=true&repositories=1&repositories.forks=false&repositories.affiliations=owner&languages=1&languages.limit=8&languages.details=percentage&languages.colors=github&languages.indepth=true&achievements=1&achievements.threshold=C&achievements.secrets=true&followup=1&followup.sections=repositories&followup.indepth=true&isocalendar=1&isocalendar.duration=half-year" alt="GitHub Metrics" width="100%"/>
-  </details>
-
-  <br/>
-
-  <p><b>A cleaner view of coding activity, language focus, and consistency across light and dark mode.</b></p>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Thegod322&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=default&hide_border=true&langs_count=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thegod322&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
-  </picture>
-
-  <br/>
-  <br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Thegod322&theme=tokyonight&hide_border=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Thegod322&theme=default&hide_border=true"/>
@@ -134,5 +110,6 @@ Hello! I am a game designer, web developer, and automation engineer focused on t
   <p>
     <a href="https://github.com/Thegod322"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;&nbsp;
     <a href="https://t.me/Thegod322"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/arkadythedesigner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 </div>
